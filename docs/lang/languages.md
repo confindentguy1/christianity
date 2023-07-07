@@ -1,0 +1,32 @@
+# Languages
+
+- Afrikaans / af / Afrikaans
+- Arabic / ar / اَلْعَرَبِيَّةُ
+- Bengali / bn / বাংলা
+- Chinese / zh / 中文
+- Czech / cs / čeština
+- Dutch / nl / Nederlands
+- English / en / English
+- French / fr / Français
+- German / de / Deutsch
+- Greek / el / Ελληνικά
+- Hindi / hi / हिन्दी
+- Hungarian / hu / magyar
+- Indonesian / id / Bahasa Indonesia
+- Italian / it / Italiano
+- Japanese / ja / 日本語
+- Korean / ko / 한국어
+- Persian / fa / فارسی
+- Polish / pl / Polski
+- Portuguese / pt / Português
+- Romanian / ro / Română
+- Russian / ru / Русский
+- Spanish / es / Español
+- Swahili / sw / Kiswahili
+- Swedish / sv / Svenska
+- Telugu / te / తెలుగు
+- Thai / th / ไทย
+- Turkish / tr / Türkçe
+- Ukrainian / uk / Українська
+- Urdu / ur / اردو
+- Vietnamese / vi / Tiếng Việt
